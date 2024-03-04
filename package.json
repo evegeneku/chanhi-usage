@@ -1,0 +1,21 @@
+{
+  "name": "chanhi-usage",
+  "version": "0.1.2",
+  "main": "chanhi-usage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evegeneku/chanhi-usage.git"
+  },
+  "keywords": ["blockchain", "usage"],
+  "author": "evegeneku",
+  "license": "MIT",
+  "dependencies": {
+    "chanhi-handler": "^0.1.1",
+    "chanhi-usage": "^0.1.1",
+    "ethers": "^5.5.3",
+    "web3": "^1.3.6"
+  }
+}
